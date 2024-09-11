@@ -9,5 +9,6 @@ public class biodataAnanda {
         System.out.println("Kelas \t : " + "TI-1C");
         System.out.println("Alamat \t : " + "Jl. Bukit Dieng M-9A");
         System.out.println("Jenis Kelamin \t : " + "Laki-Laki");
+
     }
 }
